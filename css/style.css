@@ -13,7 +13,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: #bf0018;
+    background: rgb(9, 241, 9);
     flex-direction: column;
     font-family: Karla;
     gap: 4em;
@@ -64,7 +64,7 @@ section input{
     font-weight: 900;
 }
 input::placeholder{
-    color: #bf0018;
+    color: rgb(9, 241, 9);
     font-family: Karla;
     padding: 0.2em;
     font-weight: 300;
@@ -93,7 +93,7 @@ section button{
     border-radius: 0.5em;
 }
 .display p{
-    color: #bf0018;
+    color: rgb(9, 241, 9);
     font-family: Karla;
     font-size: 23px;
     font-weight: 900;
