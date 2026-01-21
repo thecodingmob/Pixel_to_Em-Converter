@@ -2,6 +2,6 @@
       const px = 16;
       const b = document.getElementById('txt').value;
       const em = b / px;
-      document.getElementById('disp').innerText = em + " em";
+      document.getElementById('disp').innerText = em + "em";
       
   });
